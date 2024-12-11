@@ -1,1 +1,1 @@
-# customer_behavior_frontend
+# Customer Behavior Tracking System Frontend Repository
