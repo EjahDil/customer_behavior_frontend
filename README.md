@@ -20,6 +20,6 @@
    
  - Once inside the frontend folder, run the following commands 
 ```
-npm install
-npm run dev 
+First Command: npm install
+Second Command: npm run dev 
 ```
