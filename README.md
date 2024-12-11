@@ -5,7 +5,7 @@
 
 - Open your terminal and clone the github repository with the command below
   `
-   git clone git@github.com:EjahDil/lcimsProject.git
+   git clone https://github.com/EjahDil/customer_behavior_frontend.git
   `
 - navigate to the folder having the same name as the github repository cloned above using the command
 
