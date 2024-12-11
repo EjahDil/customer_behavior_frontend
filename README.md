@@ -4,6 +4,7 @@
 ## Project Execution on your Local Computer
 
 - Open your terminal and clone the github repository with the command below
+
   `
    git clone https://github.com/EjahDil/customer_behavior_frontend.git
   `
