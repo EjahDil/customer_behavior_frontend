@@ -1,5 +1,5 @@
 # Customer Behavior Tracking System Frontend Repository
-##### The CBT system is a web application designed to be integrated into supermarkets and other establishments where customer interactions occur, with the goal of collecting transactional data from customers. Using this transactional data, we aim to perform some deep analysis and use a machine learning-based recommendation engine deployed within the web application to deliver personalized product recommendations to customers.
+#### The CBT system is a web application designed to be integrated into supermarkets and other establishments where customer interactions occur, with the goal of collecting transactional data from customers. Using this transactional data, we aim to perform some deep analysis and use a machine learning-based recommendation engine deployed within the web application to deliver personalized product recommendations to customers.
 
 ## Project Execution on your Local Computer
 
